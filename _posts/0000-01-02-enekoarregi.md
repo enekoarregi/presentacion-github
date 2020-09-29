@@ -2,5 +2,5 @@
 layout: slide
 title: ¨Welcome motherfuckers¨
 ---
-Qué pasa
+Más vale tarde que nunca amigos míos
 Utiliza la flecha hacia la izquierda para volver!
